@@ -72,27 +72,23 @@ Resulting image:
 ![snowy-mountain](https://github.com/user-attachments/assets/4903c5c1-f118-4730-aa72-d17a0b408112)
 
 
----
-
 You can modify the prompt to generate all kinds of unique and creative images! 🤩
 
 ---
 
-🚀 Running on Google Colab
+## 🚀 Running on Google Colab
 
 Open this project on Google Colab with the following button! 👇
 
 ---
 
-✨ Let's Generate Some Art!
-
----
+## ✨ Let's Generate Some Art!
 
 Experiment with different prompts and resolutions to create anything from surreal landscapes 🌌 to futuristic cities 🏙️. Let your imagination run wild!
 
 ---
 
-🙌 Credits
+## 🙌 Credits
 
 Big thanks to Tech with Tim for the inspiration!! Kudos to him. Please do check his channel out. https://www.youtube.com/@TechWithTim
 
